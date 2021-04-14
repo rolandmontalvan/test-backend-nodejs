@@ -13,7 +13,10 @@ exports.create = (req, res) => {
     const product = new Product({
       title: req.body.title,
       description: req.body.description,
+      price: req.body.price,
+      category: req.body.category,
       published: req.body.published ? req.body.published : false
+
     });
   
     // Save product in the database

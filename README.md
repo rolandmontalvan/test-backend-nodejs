@@ -4,8 +4,10 @@
 - npm install;
 - npm start;
 
+
+
 <strong>PRONTO! o servidor já está rodando.
-Agora você pode utilizar sua ferramenta para teste de API's de sua preferência</strong>
+Agora você pode utilizar sua ferramenta para teste de API's de sua preferência. Endereço de teste: http://localhost:8080/api/products</strong>
 
 
 <h1>Backend Analyst Candidate Testing</h1>
