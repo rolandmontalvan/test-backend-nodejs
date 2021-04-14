@@ -1,9 +1,11 @@
-Olá avaliador, para usar este repositório siga os seguintes comandos:
-cd nodejs-express-mongodb
-npm install
-npm start
-PRONTO! o servidor já está rodando.
-Agora você pode utilizar sua ferramenta para teste de API's de sua preferência
+<strong> Olá avaliador, para usar este repositório siga os seguintes comandos:</strong>
+
+- cd nodejs-express-mongodb;
+- npm install;
+- npm start;
+
+<strong>PRONTO! o servidor já está rodando.
+Agora você pode utilizar sua ferramenta para teste de API's de sua preferência</strong>
 
 
 <h1>Backend Analyst Candidate Testing</h1>
